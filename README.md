@@ -1,4 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Anas Mzaater</h1>
+
+<h3 align="center">
+Java & Spring Boot Developer • Full Stack Developer
+</h3>
+
+<p align="center">
+Building modern, secure and scalable web applications with Spring Boot & Angular.
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;Full+Stack+Developer;Spring+Security+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
+
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Mzaater-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anas-m-0b74821aa)
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Anas-MZAATER\&style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an Engineering student in **Information Systems Engineering (ISI)** at **SUPMTI**, passionate about designing robust backend systems and building modern full-stack applications.
+
+My primary focus is **Java and Spring Boot**, complemented by **Angular** for frontend development. I also enjoy exploring cybersecurity, networking, cloud technologies, and DevOps to build secure and reliable software solutions.
+
+* ☕ Java & Spring Boot
+* 🅰️ Angular
+* 🔐 Spring Security
+* 🗄️ SQL Databases
+* 🌐 REST APIs
+* ☁️ Docker & Cloud Fundamentals
+* 🔒 Cybersecurity
+* 🌍 Computer Networks
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,mysql,bash"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* REST API
+* Hibernate
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular"/>
+</p>
+
+* Angular
+* Angular Material
+* TypeScript
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏥 Hospital Management System
+
+> **Spring Boot • Angular • Spring Security • MySQL**
+
+A secure full-stack application featuring authentication, role-based access control and REST APIs.
+
+---
+
+## 🔐 Enterprise Network Security
+
+> **Cisco • VLAN • OSPF • ACL • NAT • DHCP**
+
+Designed and secured a complete enterprise network using Cisco Packet Tracer.
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Security
+- Spring AI
+- Microservices
+- Kubernetes
+- CI/CD
+- AWS
+
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anas-m-0b74821aa">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Code. Learn. Build. Improve.
+
+*"Building reliable software with Java, Spring Boot and Angular."*
+
+</div>
 
 <!--
 **Anas-MZAATER/Anas-MZAATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
