@@ -8,7 +8,6 @@ Java & Spring Boot Developer • Full Stack Developer
 Building modern, secure and scalable web applications with Spring Boot & Angular.
 </p>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;Full+Stack+Developer;Spring+Security+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
@@ -97,11 +96,24 @@ Designed and secured a complete enterprise network using Cisco Packet Tracer.
 
 ---
 
-# 🔥 Contribution Streak
+# 📊 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=github-dark-blue&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-MZAATER/Anas-MZAATER/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-MZAATER/Anas-MZAATER/gh-pages/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Anas-MZAATER/Anas-MZAATER/gh-pages/github-contribution-grid-snake.svg">
+</picture>
 
 </p>
 
@@ -115,7 +127,6 @@ Designed and secured a complete enterprise network using Cisco Packet Tracer.
 - Kubernetes
 - CI/CD
 - AWS
-
 
 ---
 
