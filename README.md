@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:065F46,100:3FB950&height=220&section=header&text=Software%20Engineering%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi there 👋, I'm Anas Mzaater</h1>
 
 <h3 align="center">
-Java & Spring Boot Developer • Full Stack Developer
+Software Engineer • Full Stack Developer • Java & Spring Boot Specialist
 </h3>
 
 <p align="center">
 Building modern, secure and scalable web applications with Spring Boot & Angular.
 </p>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;Full+Stack+Developer;Spring+Security+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Spring+Angular+Developer;Java+%7C+Spring+Boot+%7C+Angular;Secure+Enterprise+Application+Builder;Cloud+%26+DevOps+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Technologies"/>
 </p>
 
 <div align="center">
@@ -99,7 +103,7 @@ Designed and secured a complete enterprise network using Cisco Packet Tracer.
 # 📊 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
