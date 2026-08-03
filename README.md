@@ -103,8 +103,11 @@ Designed and secured a complete enterprise network using Cisco Packet Tracer.
 # 📊 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://raw.githubusercontent.com/Anas-MZAATER/Anas-MZAATER/generated-assets/assets/streak.svg"alt="GitHub Streak">
+  <!-- <img src="https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anas-MZAATER&show_icons=true&theme=tokyonight&cache_seconds=86400"/> -->
 </p>
+
 
 ---
 

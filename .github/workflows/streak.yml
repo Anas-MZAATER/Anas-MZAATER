@@ -1,0 +1,41 @@
+name: Update GitHub Streak
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout generated-assets
+        uses: actions/checkout@v4
+        with:
+          ref: generated-assets
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
+
+      - name: Download streak
+        run: |
+          curl --fail --location --silent --show-error \
+          "https://streak-stats.demolab.com?user=Anas-MZAATER&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" \
+          -o assets/streak.svg.new
+
+      - name: Validate SVG
+        run: |
+          grep -q "<svg" assets/streak.svg.new
+          mv assets/streak.svg.new assets/streak.svg
+
+      - name: Commit updated streak
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: generated-assets
+          commit_message: "chore: update GitHub streak"
+          file_pattern: assets/streak.svg
