@@ -1,0 +1,39 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Java
+target/
+*.class
+
+# Local folders
+autre/
